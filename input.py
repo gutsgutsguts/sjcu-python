@@ -2,7 +2,7 @@ var = input()
 print ("input String %s, Integer %d " % (var, int(var)) )
 
 var = input("Enter a number: ")
-var = int(var) ** 2
+var = int(var) ** 2   
 print(f'Result : {var}')
 
 var = [1,2,3,4,5]
